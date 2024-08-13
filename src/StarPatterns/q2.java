@@ -1,4 +1,4 @@
-package starPatterns;
+package StarPatterns;
 
 // write a program so that output look like this
 // *
