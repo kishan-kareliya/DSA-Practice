@@ -1,4 +1,4 @@
-package Functions;
+package FundamentalProblems;
 import java.util.Scanner;
 
 //Write a program to print the factorial of a number by defining

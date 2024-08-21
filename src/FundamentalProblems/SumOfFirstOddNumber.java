@@ -1,4 +1,4 @@
-package Functions;
+package FundamentalProblems;
 import java.util.Scanner;
 
 //Write a Java program that prompts the user to enter a number n, and then calculates

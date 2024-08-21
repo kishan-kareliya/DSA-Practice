@@ -1,4 +1,4 @@
-package Functions;
+package FundamentalProblems;
 
 import java.util.Scanner;
 
