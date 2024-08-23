@@ -18,3 +18,4 @@ This repository contains solutions to various fundamental problems implemented i
 11. [Strong Number](https://www.geeksforgeeks.org/program-to-check-strong-number/)
 12. [Sum of Digits](https://www.geeksforgeeks.org/program-for-sum-of-the-digits-of-a-given-number/)
 13. [Sum of First N Odd Numbers](https://www.geeksforgeeks.org/sum-of-odd-numbers/)
+14. [SumofelementsInaMatrix](https://www.geeksforgeeks.org/find-sum-of-all-matrix-elements/)
