@@ -19,3 +19,4 @@ This repository contains solutions to various fundamental problems implemented i
 12. [Sum of Digits](https://www.geeksforgeeks.org/program-for-sum-of-the-digits-of-a-given-number/)
 13. [Sum of First N Odd Numbers](https://www.geeksforgeeks.org/sum-of-odd-numbers/)
 14. [SumofelementsInaMatrix](https://www.geeksforgeeks.org/find-sum-of-all-matrix-elements/)
+15. [EvenlyDevides](https://www.geeksforgeeks.org/problems/count-digits5716/1?page=1&difficulty=School&sortBy=submissions);
