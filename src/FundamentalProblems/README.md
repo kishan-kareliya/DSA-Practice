@@ -20,3 +20,4 @@ This repository contains solutions to various fundamental problems implemented i
 13. [Sum of First N Odd Numbers](https://www.geeksforgeeks.org/sum-of-odd-numbers/)
 14. [SumofelementsInaMatrix](https://www.geeksforgeeks.org/find-sum-of-all-matrix-elements/)
 15. [EvenlyDevides](https://www.geeksforgeeks.org/problems/count-digits5716/1?page=1&difficulty=School&sortBy=submissions);
+16. [ReverseNumber](https://leetcode.com/problems/reverse-integer/description/)
