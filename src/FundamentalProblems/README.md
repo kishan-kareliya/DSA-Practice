@@ -12,7 +12,7 @@ This repository contains solutions to various fundamental problems implemented i
 5. [Fibonacci Series](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
 6. [Leap Year](https://www.geeksforgeeks.org/program-check-given-year-leap-year/)
 7. [Nth Fibonacci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
-8. [Palindrome Number](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
+8. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 9. [Perfect Number](https://www.geeksforgeeks.org/perfect-number/)
 10. [Rotate Number](https://www.geeksforgeeks.org/generate-all-rotations-of-a-number/)
 11. [Strong Number](https://www.geeksforgeeks.org/program-to-check-strong-number/)
