@@ -10,3 +10,4 @@ This repository contains solutions to various recursion problems implemented in 
 4. [SumOfFirstNQuebue](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
 5. [FactorialOfNumber]()
 6. [SumOfDigits]()
+7. [ReverseNumber]()
