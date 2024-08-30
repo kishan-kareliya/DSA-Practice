@@ -12,3 +12,4 @@ This repository contains solutions to various recursion problems implemented in 
 6. [SumOfDigits]()
 7. [ReverseNumber]()
 8. [FindGCD]()
+9. [FindPowerOfNumber]()
