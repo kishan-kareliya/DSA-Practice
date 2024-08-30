@@ -9,3 +9,4 @@ This repository contains solutions to various recursion problems implemented in 
 3. [PrintNto1](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1)
 4. [SumOfFirstNQuebue](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
 5. [FactorialOfNumber]()
+6. [SumOfDigits]()
