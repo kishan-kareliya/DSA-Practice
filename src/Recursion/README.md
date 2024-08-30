@@ -5,3 +5,4 @@ This repository contains solutions to various recursion problems implemented in 
 ## List of Problems
 
 1. [Print1ToN](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1)
+2. [PrintGFGNTimes](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1)
