@@ -29,6 +29,7 @@
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 29. [FrequencyCount]()
 30. [InsertAtIndex]()
+31. [DeleteAtIndex]()
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
