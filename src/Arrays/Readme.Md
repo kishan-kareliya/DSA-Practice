@@ -30,6 +30,7 @@
 29. [FrequencyCount]()
 30. [InsertAtIndex]()
 31. [DeleteAtIndex]()
+32. [CountMoneyNote]()
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
