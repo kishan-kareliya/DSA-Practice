@@ -27,7 +27,7 @@ public class InsertAtIndex {
         arr = insertAtIndex(arr,12,2);
         System.out.println(Arrays.toString(arr));
     }
-    public static int[] insertAtIndex(int[] arr,int value,int index){
+    public static int[] insertAtIndex(int[] arr,int value,int index) {
         int[] ans = new int[arr.length + 1];
 
         //copy element in new array
