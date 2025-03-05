@@ -150,6 +150,22 @@ public class SinglyLInkedLists {
         }
     }
 
+    public void removeMiddle(){
+        Node prevSlowPointer = head;
+        Node slowPointer = head;
+        Node fastPointer = head;
+
+        while(fastPointer != null && fastPointer.next != null){
+            if(slowPointer != head){
+                prevSlowPointer = prevSlowPointer.next;
+            }
+            slowPointer = slowPointer.next;
+            fastPointer = fastPointer.next.next;
+        }
+        prevSlowPointer.next = slowPointer.next;
+        System.out.println("Middle Element Removed: "+slowPointer.data);
+    }
+
     public static void main(String[] args) {
         SinglyLInkedLists list = new SinglyLInkedLists();
         Scanner s = new Scanner(System.in);
