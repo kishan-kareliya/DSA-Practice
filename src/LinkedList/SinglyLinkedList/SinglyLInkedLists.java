@@ -121,6 +121,35 @@ public class SinglyLInkedLists {
         return 0;
     }
 
+    public void removeDuplicates(){
+        Node p = head;
+        while(p.next != null){
+            if(p.data == p.next.data){
+                p.next = p.next.next;
+            }
+            else{
+                p = p.next;
+            }
+        }
+    }
+
+    public void removeElement(int data){
+        if(head == null || head.data == data){
+            head = head.next;
+        }
+
+        Node p = head;
+
+        while(p.next != null){
+            if(p.next.data == data){
+                p.next = p.next.next;
+            }
+            else{
+                p = p.next;
+            }
+        }
+    }
+
     public static void main(String[] args) {
         SinglyLInkedLists list = new SinglyLInkedLists();
         Scanner s = new Scanner(System.in);
